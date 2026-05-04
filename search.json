@@ -1,0 +1,112 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto raamat",
+    "section": "",
+    "text": "Sissejuhatus\nSee on Quarto raamatu mall, mis on loodud Quarto õpikute loomise juhendi järgi kasutamiseks. Juhend on saadaval aadressil https://eriktellas.github.io/Quarto-Juhend/.\nSiin on seadistatud ka GitHub Pages avaldamine, mis tähendab, et iga kord kui uuendad main haru, siis avaldatakse uus versioon ka veebilehel. Lisaks on paigaldatud Google Analytics, mis võimaldab jälgida, kui palju inimesi su raamatut külastab ja kuidas nad sellega suhtlevad. Vaata faili analytics.html ja asenda G-XXXXXXXXXX oma Google Analytics Measurement ID-ga, et see tööle hakkaks.",
+    "crumbs": [
+      "Sissejuhatus"
+    ]
+  },
+  {
+    "objectID": "1-H5P.html",
+    "href": "1-H5P.html",
+    "title": "1  H5P",
+    "section": "",
+    "text": "1.1 Interaktiivne sisu\nSiin on H5P harjutus.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>H5P</span>"
+    ]
+  },
+  {
+    "objectID": "1-H5P.html#interaktiivne-sisu",
+    "href": "1-H5P.html#interaktiivne-sisu",
+    "title": "1  H5P",
+    "section": "",
+    "text": "TipPeatükk annab ülevaate\n\n\n\n\nmis on pilvetehnoloogia,\nmis on pilveplatform,\nmis on pilveteenus,\nmis on suhtlus- ja sisuloome teenused.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>H5P</span>"
+    ]
+  },
+  {
+    "objectID": "2-CODAP.html",
+    "href": "2-CODAP.html",
+    "title": "2  CODAP",
+    "section": "",
+    "text": "2.1 Interaktiivne sisu\nSiin on CODAP harjutus.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>CODAP</span>"
+    ]
+  },
+  {
+    "objectID": "3-NetLogo.html",
+    "href": "3-NetLogo.html",
+    "title": "3  NetLogo",
+    "section": "",
+    "text": "3.1 Interaktiivne simulatsioon\nNetLogo on modelleerimiskeskkond, mis võimaldab simuleerida looduslikke ja sotsiaalseid nähtusi.\nSiin on näide NetLogo Web mudelist:",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>NetLogo</span>"
+    ]
+  },
+  {
+    "objectID": "4-infoplokid.html",
+    "href": "4-infoplokid.html",
+    "title": "4  Infoplokid",
+    "section": "",
+    "text": "NoteSee on note\n\n\n\nVäiksem teks siin all.\n\n\n\n\n\n\n\n\nTipSee on tip\n\n\n\nVäiksem teks siin all.\n\n\n\n\n\n\n\n\nImportantSee on important\n\n\n\nVäiksem teks siin all.\n\n\n\n\n\n\n\n\nCautionSee on caution\n\n\n\nVäiksem teks siin all.\n\n\n\n\n\n\n\n\nWarningSee on warning\n\n\n\nVäiksem teks siin all.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Infoplokid</span>"
+    ]
+  },
+  {
+    "objectID": "5-Mis-on-infouhiskond.html",
+    "href": "5-Mis-on-infouhiskond.html",
+    "title": "5  Mis on infoühiskond?",
+    "section": "",
+    "text": "5.1 Sissejuhatus infoühiskonda\nÜhiskond on inimeste kooselu vorm ja sellest tulenevate sotsiaalsete suhete ning institutsioonide kogum. Kui riik läheb ühelt poliitiliselt korralt teise, siis seda nimetatakse siirdeperioodiks (aka siirdeühiskond). Ühiskonnaõpetuses õpetatakse erinevaid (ka kaasajal kasutuses olevaid) ühiskonna toimimise liike nagu:\nLisaks nendele liikidele on päevapoliitikas sagedasti kasutusel ka\nKõiki neid liike kombineeritakse selleks, et tagada inimestele ja looduskeskkonnale jätkusuutlik elu. Kuidas on õige või millise tee erinevad riigid valivad, selgub selle riigi poliitikast ning riigi juhtide ja kodanike kokkuleppest. Õpiku kontekstis räägime kõige enam infoühiskonnast.\nInfoühiskonna idee taga seisavad nii UNESCO kui Euroopa Liit.\nInfoühiskonna toimimiseks on vaja riigis viia miinimumini digilõhe (ligipääsude ja oskuste erinevus), mis tekitab ebavõrdsust (Vikipeedia, Digilõhe).\nNäiteid ebavõrdsusest:\nÜlesanne 1: Milline on Eesti kui infoühiskonna tervislik seisund?\nStatistikaameti andmebaasi uurides saame teada, milline on Eesti infoühiskonna tervis. Vasta testis küsimustele nii, et leiad õiged vastused Statistikaameti andmebaasist. Infoühiskonna mõõdikud leiad majandus/infotehnoloogia ja side/infotehnoloogia leibkonnas. Uuri sealt seadmete kasutust, ligipääsetavust, e-kaubanduse kasutamist ja turvariske.\nKuna infoühiskond seisneb nii informatsioonil kui ka teenustel, mis on kolinud elektroonilistesse kanalitesse, siis järgmises osas vaatleme lähemalt, mis on e-teenus ja milliseid tegevusi oma töös viib ellu teenusedisainer.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Mis on infoühiskond?</span>"
+    ]
+  },
+  {
+    "objectID": "5-Mis-on-infouhiskond.html#sissejuhatus-infoühiskonda",
+    "href": "5-Mis-on-infouhiskond.html#sissejuhatus-infoühiskonda",
+    "title": "5  Mis on infoühiskond?",
+    "section": "",
+    "text": "agraarühiskond\nindustriaalühiskond / tööstusühiskond\npostindustriaalne ühiskond\n\n\n\n\npõlluharimine, karjakasvatus või kalapüük\ntööstus ja ehitus\nteenusepõhisus\n\n\n\n\n\n\n\n\n\n\ninfoühiskond (informatsiooni tähtsustav ja kasutav),\nteadmusühiskond (teadusuuringute tulemusi tähtsustav ja kasutav),\nkodanikuühiskond (vabad kodanikud, kes on haritud, laia silmaringiga, vaimselt ja materiaalselt sõltumatud, juhivad ühiskonda ise),\nheaoluühiskond (lahendus sotsiaalriigist, kus on saavutatud kõrge elatustase ja kodanike sotsiaalne turvalisus).\n\n\n\n\n\n\n\n\nNoteDefinitsioon: infoühiskond\n\n\n\nInfoühiskond on infot tähtsustav ja seda kõigis eluvaldkondades maksimaalselt kasutav ühiskond (EKI).\n\n\n\n\nUNESCO: “Infoühiskond peab kindlalt toetuma inimeste põhiõigustele ja -vabadustele ning kindlustama õiguse haridusele, kultuurile ja sõnavabadusele tegelikkuses, kaitstes ja tugevdades teabe kui avaliku hüve positsioone, toetades kultuuride ja keelte mitmekesisust, tagades võimalikult laiapõhjalise juurdepääsu infole hariduslikel ja kultuurilistel eesmärkidel ning arendades kõrgekvaliteedilist, mitmepalgelist ja usaldusväärset võrgusisu.” (Vikipeedia, Infoühiskond).\nEuroopa Liit seisab juurdepääsu tagamise (internet, kommunikatsioonivõrkude ehitamine), võrgusisu ja elektrooniliste teenuste arendamise, arvuti- ja infokirjaoskuse levitamise, avaliku ja erasektori koostöö soodustamise, monopoolsete ettevõtete tekkimise vältimise eest infoturul. (Vikipeedia, Infoühiskond).\n\n\n\n\n\n\n\n\nNoteDefinitsioon: digilõhe\n\n\n\nDigilõhe on infotehnoloogia kättesaadavuse ja kasutamise võimaluste erinevusest tingitud majanduslik ja sotsiaalne ebavõrdsus (AKIT).\n\n\n\n\n\n\n\n\n\n\n\nmajanduslik lõhe\nkasutatavuse lõhe\naktiivsuse lõhe\n\n\nOsadel inimestel on võimalik osta endale arvuti, osadel mitte. Mida rikkam on inimene, seda suurem on tõenäosus, et ta soetab endale isikliku arvuti.\nInimesel on isiklik arvuti, aga ta ei oska või ei soovi seda kasutada, sest talle on paljud tegevused seal keerulised.\nInimesel on isiklik arvuti ja oskused, kuid ta ei kasuta kõike vajalikku. Näiteks saab igaüks luua omale veebilehe või liituda sotsiaalvõrgustikuga, aga paljud ei tee seda.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Mis on infoühiskond?</span>"
+    ]
+  },
+  {
+    "objectID": "5-Mis-on-infouhiskond.html#e-teenus-teenusedisain",
+    "href": "5-Mis-on-infouhiskond.html#e-teenus-teenusedisain",
+    "title": "5  Mis on infoühiskond?",
+    "section": "5.2 E-teenus, teenusedisain",
+    "text": "5.2 E-teenus, teenusedisain\n\n\n\n\n\n\nNoteDefinitsioon: e-teenus\n\n\n\nE-teenus on elektrooniline teenus, mida osutatakse kohaliku serveri baasil või arvutivõrgu kaudu. E-teenuse kasutamiseks peab teadma kasutajanime ja parooli (EKI). E-teenuseid kasutatakse elektrooniliste kanalite kaudu, peamiselt interneti või mobiilside teel.\n\n\n\n\n\n\n\n\nWarningNäide: e-teenus\n\n\n\nE-teenuseid pakub nii riik kui ka ettevõtted (Vikipeedia, E-teenus). Mida enam liigub Eesti infoühiskonda, seda enam muutume sõltuvaks interneti töökindlusest, pakutavatest teenustest ja internetti ühendatud seadmete olemasolust. E-teenuseid pakuvad nii sotsiaalmeedia portaalid (Facebook, Youtube, WhatsApp, Instagram, TikTok jt) kui ka e-poed (Amazon, eBay, Aliexpress, Shein), näiteks on e-teenused kõik Google ja Microsofti poolt pakutavad lahendused (e-mail, kalender, tõlkevahendid, kaardirakendused, pildi ja videopangad jms).\n\n\nÜlesanne 2: Kes on Eesti uusi e-teenuseid pakkuvad iduettevõtjad?\nE-teenuseid arendavad muuhulgas ka paljud idufirmad, sh Eestis. Näiteks Startup Estonia veebilehe andmebaasist leiab üle tuhande Eesti ettevõtte, kes pakuvad erinevaid e-teenuseid, mida on vaja inimestel infoühiskonnas toimimiseks. Uuri välja, millega tegelevad näiteks Bolt, Wise, Veriff, Swappie, 3Commas jt.\n\n\n\n\n\n\n\n\n\nCautionAmet: teenusedisainer\n\n\n\nArendamaks parimaid e-teenuseid, on vaja, et need oleksid kliendile kasutatavad ehk kliendisõbralikud. Selleks on loodud infoühiskonnas uus amet – teenusedisainer – kes peab omama teadmisi nii juhtimisest, turundusest, uurimistööst kui ka disainist. Tema ülesanne on analüüsida teenuste funktsionaalsust ja klientide teenuste kasutuskogemust ning pakkuda välja uusi lahendusi, mis muudavad teenuse mugavamaks, efektiivsemaks ja ka konkurentidest eristuvaks.\n\n\nTäpsemalt saab teenusedisaini kohta lugeda siit (Vikipeedia, Teenusedisain). Vaata videost, kuidas kasutada teenusedisaini ja kus seda saab õppida.\n\n\nJärgmises peatükis, E-riik ja e-teenused, vaatame lähemalt, kuidas toimivad e-teenused Eestis.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Mis on infoühiskond?</span>"
+    ]
+  },
+  {
+    "objectID": "5-Mis-on-infouhiskond.html#slaidid-õpetajale-näidis",
+    "href": "5-Mis-on-infouhiskond.html#slaidid-õpetajale-näidis",
+    "title": "5  Mis on infoühiskond?",
+    "section": "5.3 Slaidid õpetajale (näidis):",
+    "text": "5.3 Slaidid õpetajale (näidis):\nInfoühiskond",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Mis on infoühiskond?</span>"
+    ]
+  },
+  {
+    "objectID": "5-Mis-on-infouhiskond.html#lisalugemiseks",
+    "href": "5-Mis-on-infouhiskond.html#lisalugemiseks",
+    "title": "5  Mis on infoühiskond?",
+    "section": "5.4 Lisalugemiseks",
+    "text": "5.4 Lisalugemiseks\n\nLood Eesti IT-inimestest ja ajaloost. Lood ja mõtted kuulatavad https://open.spotify.com/show/6cCAgaJE7TW2UsArFswWID\nKasutatud kirjandus: Vikipeedia https://et.wikipedia.org/\nKasutatud pildid: Pixabay  https://pixabay.com/\nGümnaasiumi kursus Digiteenused “Ettevõttluskeskkond ja digiteenuste loomise juhtimine” ja “Digiteenuste arendamine”\n\nAnna materjalile tagasiside siin: Materjalile tagasiside andmine",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Mis on infoühiskond?</span>"
+    ]
+  }
+]
