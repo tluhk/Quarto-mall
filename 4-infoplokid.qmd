@@ -1,0 +1,31 @@
+# Infoplokid
+
+::: {.callout-note icon="false"}
+## See on note
+
+Väiksem teks siin all.
+:::
+
+::: {.callout-tip icon="false"}
+## See on tip
+
+Väiksem teks siin all.
+:::
+
+::: {.callout-important icon="false"}
+## See on important
+
+Väiksem teks siin all.
+:::
+
+::: {.callout-caution icon="false"}
+## See on caution
+
+Väiksem teks siin all.
+:::
+
+::: {.callout-warning icon="false"}
+## See on warning
+
+Väiksem teks siin all.
+:::

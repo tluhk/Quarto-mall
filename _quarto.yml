@@ -1,0 +1,39 @@
+project:
+  type: book
+
+lang: et
+
+book:
+  title: "Quarto raamat"
+  author: "Erik Tellas"
+  date: "04/20/2026"
+  chapters:
+    - index.qmd
+    - 1-H5P.qmd
+    - 2-CODAP.qmd
+    - 3-NetLogo.qmd
+    - 4-infoplokid.qmd
+    - 5-Mis-on-infouhiskond.qmd
+
+
+bibliography: references.bib
+
+language:
+  et:
+    title-block-author-single: "Autor"
+    title-block-published: "Avaldatud"
+    toc-title-document: "Sisukord"
+    section-title-abstract: "Kokkuvõte"
+    section-title-references: "Viited"
+
+format:
+  html:
+    theme: cosmo
+      - cosmo
+      - brand
+    include-in-header: 
+      - analytics.html
+    include-after-body: 
+      - youtube-ga4.html
+
+

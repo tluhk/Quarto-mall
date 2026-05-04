@@ -1,0 +1,22 @@
+# H5P
+
+Siin on H5P harjutus.
+
+## Interaktiivne sisu
+
+::: {.callout-tip icon="false"}
+## Peatükk annab ülevaate
+
+-   mis on pilvetehnoloogia,
+-   mis on pilveplatform,
+-   mis on pilveteenus,
+-   mis on suhtlus- ja sisuloome teenused.
+:::
+
+<iframe src="https://web.htk.tlu.ee/informaatika/infoyhiskond/wp-admin/admin-ajax.php?action=h5p_embed&amp;id=20" width="686" height="422" frameborder="0" allowfullscreen="allowfullscreen" title="Sarnased teenused">
+
+</iframe>
+
+```{=html}
+<script src="https://web.htk.tlu.ee/informaatika/infoyhiskond/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+```

@@ -1,0 +1,142 @@
+# Mis on infoühiskond?
+
+::: {.callout-tip icon="false"}
+## Peatükk annab ülevaate
+
+-   ühiskonna erinevatest liikidest,
+
+-   digilõhest Eesti ühiskonnas,
+
+-   e-teenustest infoühiskonnas,
+
+-   teenusedisaini olulisusest e-teenuste loomisel.
+:::
+
+## Sissejuhatus infoühiskonda
+
+Ühiskond on inimeste kooselu vorm ja sellest tulenevate sotsiaalsete suhete ning institutsioonide kogum. Kui riik läheb ühelt poliitiliselt korralt teise, siis seda nimetatakse siirdeperioodiks (*aka* siirdeühiskond). Ühiskonnaõpetuses õpetatakse erinevaid (ka kaasajal kasutuses olevaid) ühiskonna toimimise liike nagu:
+
+| agraarühiskond | industriaalühiskond / tööstusühiskond | postindustriaalne ühiskond |
+|------------------------|------------------------|------------------------|
+| põlluharimine, karjakasvatus või kalapüük | tööstus ja ehitus | teenusepõhisus |
+| ![](images/paste-1.png) | ![](images/paste-2.png) | ![](images/paste-3.png) |
+
+Lisaks nendele liikidele on päevapoliitikas sagedasti kasutusel ka
+
+-   **infoühiskond (informatsiooni tähtsustav ja kasutav),**
+
+-   teadmusühiskond (teadusuuringute tulemusi tähtsustav ja kasutav),
+
+-   kodanikuühiskond (vabad kodanikud, kes on haritud, laia silmaringiga, vaimselt ja materiaalselt sõltumatud, juhivad ühiskonda ise),
+
+-   heaoluühiskond (lahendus sotsiaalriigist, kus on saavutatud kõrge elatustase ja kodanike sotsiaalne turvalisus).
+
+Kõiki neid liike kombineeritakse selleks, et tagada inimestele ja looduskeskkonnale jätkusuutlik elu. Kuidas on õige või millise tee erinevad riigid valivad, selgub selle riigi poliitikast ning riigi juhtide ja kodanike kokkuleppest. Õpiku kontekstis räägime kõige enam infoühiskonnast.
+
+::: {.callout-note icon="false"}
+## Definitsioon: infoühiskond
+
+Infoühiskond on infot tähtsustav ja seda kõigis eluvaldkondades maksimaalselt kasutav ühiskond ([EKI](https://www.eki.ee/dict/ekss/index.cgi?Q=info%C3%BChiskond)).
+:::
+
+Infoühiskonna idee taga seisavad nii UNESCO kui Euroopa Liit.
+
+-   UNESCO: "Infoühiskond peab kindlalt toetuma inimeste põhiõigustele ja -vabadustele ning kindlustama õiguse haridusele, kultuurile ja sõnavabadusele tegelikkuses, kaitstes ja tugevdades teabe kui avaliku [hüve](https://et.wikipedia.org/wiki/H%C3%BCve "Hüve") positsioone, toetades kultuuride ja keelte mitmekesisust, tagades võimalikult laiapõhjalise juurdepääsu infole hariduslikel ja kultuurilistel eesmärkidel ning arendades kõrgekvaliteedilist, mitmepalgelist ja usaldusväärset võrgusisu." ([Vikipeedia, Infoühiskond](https://et.wikipedia.org/wiki/Info%C3%BChiskond)).
+
+-   Euroopa Liit seisab juurdepääsu tagamise (internet, kommunikatsioonivõrkude ehitamine), võrgusisu ja elektrooniliste teenuste arendamise, arvuti- ja infokirjaoskuse levitamise, avaliku ja erasektori koostöö soodustamise, monopoolsete ettevõtete tekkimise vältimise eest infoturul. ([Vikipeedia, Infoühiskond](https://et.wikipedia.org/wiki/Info%C3%BChiskond)).
+
+Infoühiskonna toimimiseks on vaja riigis viia miinimumini digilõhe (ligipääsude ja oskuste erinevus), mis tekitab ebavõrdsust ([Vikipeedia, Digilõhe](https://et.wikipedia.org/wiki/Digil%C3%B5he)).
+
+::: {.callout-note icon="false"}
+## Definitsioon: digilõhe
+
+Digilõhe on [infotehnoloogia](https://akit.cyber.ee/term/2514) kättesaadavuse ja kasutamise võimaluste erinevusest tingitud majanduslik ja sotsiaalne ebavõrdsus ([AKIT](https://akit.cyber.ee/term/10595-digilohe)).
+:::
+
+Näiteid ebavõrdsusest:
+
+|  |  |  |
+|------------------------|------------------------|------------------------|
+| **majanduslik lõhe** | **kasutatavuse lõhe** | **aktiivsuse lõhe** |
+| Osadel inimestel on võimalik osta endale arvuti, osadel mitte. Mida rikkam on inimene, seda suurem on tõenäosus, et ta soetab endale isikliku arvuti. | Inimesel on isiklik arvuti, aga ta ei oska või ei soovi seda kasutada, sest talle on paljud tegevused seal keerulised. | Inimesel on isiklik arvuti ja oskused, kuid ta ei kasuta kõike vajalikku. Näiteks saab igaüks luua omale veebilehe või liituda sotsiaalvõrgustikuga, aga paljud ei tee seda. |
+| ![Puuduv tehnoloogia](https://web.htk.tlu.ee/informaatika/infoyhiskond/wp-content/uploads/sites/2/2022/05/confused-gb3b888c91_1280-300x200.jpg){alt="Puuduv tehnoloogia"} | ![Oskused kasutamisel](https://web.htk.tlu.ee/informaatika/infoyhiskond/wp-content/uploads/sites/2/2022/05/youtuber-g6d3c23e48_1280-300x214.jpg){alt="Oskused kasutamisel"} | ![Aktiivsus kasutamisel](https://web.htk.tlu.ee/informaatika/infoyhiskond/wp-content/uploads/sites/2/2022/05/social-media-gee705bb65_1280-300x200.png){alt="Aktiivsus kasutamisel"} |
+
+**Ülesanne 1:** Milline on Eesti kui infoühiskonna tervislik seisund?
+
+Statistikaameti andmebaasi uurides saame teada, milline on Eesti infoühiskonna tervis. Vasta testis küsimustele nii, et leiad õiged vastused Statistikaameti [andmebaasist](https://andmed.stat.ee/et/stat). Infoühiskonna mõõdikud leiad majandus/infotehnoloogia ja side/infotehnoloogia leibkonnas. Uuri sealt seadmete kasutust, ligipääsetavust, e-kaubanduse kasutamist ja turvariske.
+
+ 
+
+<iframe src="https://sisuloome.e-koolikott.ee/h5p/26638/embed" width="1326" height="297" frameborder="0" allowfullscreen="allowfullscreen" lang="en" title="Milline on Eesti kui infoühiskonna tervis?">
+
+</iframe>
+
+```{=html}
+<script src="https://sisuloome.e-koolikott.ee/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
+```
+
+Kuna infoühiskond seisneb nii informatsioonil kui ka teenustel, mis on kolinud elektroonilistesse kanalitesse, siis järgmises osas vaatleme lähemalt, mis on e-teenus ja milliseid tegevusi oma töös viib ellu teenusedisainer.
+
+## E-teenus, teenusedisain
+
+::: {.callout-note icon="false"}
+## Definitsioon: e-teenus
+
+E-teenus on elektrooniline teenus, mida osutatakse kohaliku serveri baasil või arvutivõrgu kaudu. E-teenuse kasutamiseks peab teadma kasutajanime ja parooli ([EKI](https://www.eki.ee/dict/ekss/index.cgi?Q=e-teenus)). E-teenuseid kasutatakse elektrooniliste kanalite kaudu, peamiselt interneti või mobiilside teel.
+:::
+
+::: {.callout-warning icon="false"}
+## Näide: e-teenus
+
+E-teenuseid pakub nii riik kui ka ettevõtted ([Vikipeedia, E-teenus](https://et.wikipedia.org/wiki/E-teenus)). Mida enam liigub Eesti infoühiskonda, seda enam muutume sõltuvaks interneti töökindlusest, pakutavatest teenustest ja internetti ühendatud seadmete olemasolust. E-teenuseid pakuvad nii sotsiaalmeedia portaalid (Facebook, Youtube, WhatsApp, Instagram, TikTok jt) kui ka e-poed (Amazon, eBay, Aliexpress, Shein), näiteks on e-teenused kõik Google ja Microsofti poolt pakutavad lahendused (e-mail, kalender, tõlkevahendid, kaardirakendused, pildi ja videopangad jms).
+:::
+
+**Ülesanne 2: Kes on Eesti uusi e-teenuseid pakkuvad iduettevõtjad?**
+
+E-teenuseid arendavad muuhulgas ka paljud idufirmad, sh Eestis. Näiteks Startup Estonia [veebilehe andmebaasist](https://startupestonia.ee/startup-database) leiab üle tuhande Eesti ettevõtte, kes pakuvad erinevaid e-teenuseid, mida on vaja inimestel infoühiskonnas toimimiseks. Uuri välja, millega tegelevad näiteks Bolt, Wise, Veriff, Swappie, 3Commas jt.
+
+<iframe src="https://sisuloome.e-koolikott.ee/h5p/26639/embed" width="1326" height="240" frameborder="0" allowfullscreen="allowfullscreen" lang="en" title="Millised on edukaimad iduettevõtted Eestis">
+
+</iframe>
+
+```{=html}
+<script src="https://sisuloome.e-koolikott.ee/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
+```
+
+::: {.callout-caution icon="false"}
+## Amet: teenusedisainer
+
+Arendamaks parimaid e-teenuseid, on vaja, et need oleksid kliendile kasutatavad ehk kliendisõbralikud. Selleks on loodud infoühiskonnas uus amet – ***teenusedisainer** –* kes peab omama teadmisi nii juhtimisest, turundusest, uurimistööst kui ka disainist. Tema ülesanne on analüüsida teenuste funktsionaalsust ja klientide teenuste kasutuskogemust ning pakkuda välja uusi lahendusi, mis muudavad teenuse mugavamaks, efektiivsemaks ja ka konkurentidest eristuvaks.
+:::
+
+Täpsemalt saab teenusedisaini kohta lugeda siit ([Vikipeedia, Teenusedisain](https://et.wikipedia.org/wiki/Teenusedisain)). Vaata videost, kuidas kasutada teenusedisaini ja kus seda saab õppida.
+
+<iframe 
+    class="yt-video" 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/w5XpcDnEgE0?enablejsapi=1" 
+    title="YouTube video player" 
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+</iframe>
+
+Järgmises peatükis, E-riik ja e-teenused, vaatame lähemalt, kuidas toimivad e-teenused Eestis.
+
+## Slaidid õpetajale (näidis):
+
+[Infoühiskond](https://web.htk.tlu.ee/informaatika/infoyhiskond/wp-content/uploads/sites/2/2022/05/Infouhiskond-1.pdf)
+
+## Lisalugemiseks
+
+-   Lood Eesti IT-inimestest ja ajaloost. Lood ja mõtted kuulatavad <https://open.spotify.com/show/6cCAgaJE7TW2UsArFswWID>
+
+-   Kasutatud kirjandus: Vikipeedia <https://et.wikipedia.org/>
+
+-   Kasutatud pildid: Pixabay  <https://pixabay.com/>
+
+-   Gümnaasiumi kursus Digiteenused "[Ettevõttluskeskkond ja digiteenuste loomise juhtimine](https://web.htk.tlu.ee/digitaru/digiteenused/chapter/riik-eraettevottlus-ja-digiteenused/)" ja ["Digiteenuste arendamine](https://web.htk.tlu.ee/digitaru/digiteenused/chapter/digiteenuste-arendamine/)"
+
+**Anna materjalile tagasiside siin: [Materjalile tagasiside andmine](https://docs.google.com/forms/d/e/1FAIpQLSdh4JhjvgTeK6uuQsjRx4ebyb6Ab4TtTNVQAmZBMBqq_KkftA/viewform)**

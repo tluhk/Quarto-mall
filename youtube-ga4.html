@@ -1,0 +1,28 @@
+<script>
+  // Load YouTube IFrame API
+  var tag = document.createElement('script');
+  tag.src = "https://www.youtube.com/iframe_api";
+  document.head.appendChild(tag);
+
+  var players = [];
+
+  function onYouTubeIframeAPIReady() {
+    document.querySelectorAll('.yt-video').forEach((iframe, i) => {
+      players[i] = new YT.Player(iframe, {
+        events: {
+          'onStateChange': onPlayerStateChange
+        }
+      });
+    });
+  }
+
+  function onPlayerStateChange(event) {
+    if (event.data !== 2) return;
+
+    gtag('event', 'youtube_pause', {
+      video_id: event.target.getVideoData().video_id,
+      video_title: event.target.getVideoData().title,
+      page_path: location.pathname
+    });
+  }
+</script>
