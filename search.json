@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Quarto raamat",
     "section": "",
-    "text": "Sissejuhatus\nSee on Quarto raamatu mall, mis on loodud Quarto õpikute loomise juhendi järgi kasutamiseks. Juhend on saadaval aadressil https://eriktellas.github.io/Quarto-Juhend/.\nSiin on seadistatud ka GitHub Pages avaldamine, mis tähendab, et iga kord kui uuendad main haru, siis avaldatakse uus versioon ka veebilehel. Lisaks on paigaldatud Google Analytics, mis võimaldab jälgida, kui palju inimesi su raamatut külastab ja kuidas nad sellega suhtlevad. Vaata faili analytics.html ja asenda G-XXXXXXXXXX oma Google Analytics Measurement ID-ga, et see tööle hakkaks.",
+    "text": "Sissejuhatus\nSee on Quarto raamatu mall, mis on loodud Quarto õpikute loomise juhendi järgi kasutamiseks. Juhend on saadaval aadressil https://tluhk.github.io/Quarto-juhend/.\nSiin on seadistatud ka GitHub Pages avaldamine, mis tähendab, et iga kord kui uuendad main haru, siis avaldatakse uus versioon ka veebilehel. Lisaks on paigaldatud Google Analytics, mis võimaldab jälgida, kui palju inimesi su raamatut külastab ja kuidas nad sellega suhtlevad. Vaata faili analytics.html ja asenda G-XXXXXXXXXX oma Google Analytics Measurement ID-ga, et see tööle hakkaks.",
     "crumbs": [
       "Sissejuhatus"
     ]
